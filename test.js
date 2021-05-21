@@ -5,3 +5,7 @@ function add(a,b){
 function mul(a,b){
     return a*b;
 }
+
+function findMin(str){
+   return Math.min(str)
+}
